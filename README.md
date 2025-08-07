@@ -1,5 +1,7 @@
 # 🤖 Fire-Fighting Robot
 
+<img src="https://github.com/user-attachments/assets/1dda656f-7a32-47fc-aaad-4e05de6140a6" alt="Robot image" style="width: 400px; max-width: 100%; height: auto;" />
+
 This is a fire-fighting robot designed to detect and respond to both fire and gas leaks. It integrates a 6 DOF robotic arm and various sensors, and can be fully controlled via a mobile application using the ESP32 microcontroller.
 
 ---
@@ -34,14 +36,6 @@ This is a fire-fighting robot designed to detect and respond to both fire and ga
 
 ---
 
-## 🤳 Robot Photo
-
-Here is a photo of the assembled robot:
-
-<img src="https://github.com/user-attachments/assets/1dda656f-7a32-47fc-aaad-4e05de6140a6" alt="Robot image" style="width: 400px; max-width: 100%; height: auto;" />
-
----
-
 ## 🧠 How It Works
 
 1. Sensors continuously monitor for fire or gas.
@@ -53,6 +47,7 @@ Here is a photo of the assembled robot:
 3. All operations can be controlled manually via mobile app.
 
 ---
+
 ## 📱 Mobile App
 
 The robot is fully controllable from a mobile application. The app allows:
@@ -62,9 +57,9 @@ The robot is fully controllable from a mobile application. The app allows:
 - Notifications when fire or gas is detected
 - Manual activation of arm and air pump
 
+---
+
 ## 📜 License
 
 This project is licensed for **personal and educational use only**.  
 **Commercial use, redistribution, or sale of this project or its derivatives is strictly prohibited.**  
-
-
