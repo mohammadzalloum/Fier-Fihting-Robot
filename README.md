@@ -57,9 +57,3 @@ The robot is fully controllable from a mobile application. The app allows:
 - Notifications when fire or gas is detected
 - Manual activation of arm and air pump
 
----
-
-## 📜 License
-
-This project is licensed for **personal and educational use only**.  
-**Commercial use, redistribution, or sale of this project or its derivatives is strictly prohibited.**  
